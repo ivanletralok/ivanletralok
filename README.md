@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻¡Hola, Mundo! 👋
 Soy Alex Bornachera, un apasionado Ingeniero de Sistemas con una misión: crear experiencias digitales sorprendentes. Especializado en la construcción de aplicaciones web dinámicas y responsivas que cautivan a los usuarios desde el primer clic.
 
