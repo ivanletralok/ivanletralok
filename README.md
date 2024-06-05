@@ -1,5 +1,32 @@
 # 💫 About Me:
-👨‍💻 Alex Bornachera<br><br>## Sobre Mí<br>Ingeniero de sistemas con 4 años de experiencia en desarrollo frontend. Especializado en construcción de aplicaciones web dinámicas y responsivas utilizando HTML, CSS, JavaScript y Angular. Experiencia en bases de datos MySQL, control de versiones con Git y GitHub, y gestión de estado con Redux. Apasionado por mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.<br><br>## 🎓 Educación<br>- **Ingeniería de Sistemas** - Universidad del Magdalena<br>- Formación complementaria mediante cursos en línea y talleres.<br><br>## 🛠 Habilidades<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)<br><br>## 📫 Contacto<br>- **Correo electrónico**: [ivanletralok@gmail.com](mailto:ivanletralok@gmail.com)<br>- **LinkedIn**: [Alex Bornachera](https://www.linkedin.com/in/alex-bornachera-908b48191/)<br>- **GitHub**: [ivanletralok](https://github.com/ivanletralok)<br><br>¡Contáctame para colaborar en proyectos o simplemente para conectar!<br>
+## 👨‍💻¡Hola, Mundo! 👋
+Soy Alex Bornachera, un apasionado Ingeniero de Sistemas con una misión: crear experiencias digitales sorprendentes. Especializado en la construcción de aplicaciones web dinámicas y responsivas que cautivan a los usuarios desde el primer clic.
+
+## 🚀 Habilidades Destacadas
+
+- **Frontend Maestro**: HTML, CSS, JavaScript y Angular son mi lienzo digital para dar vida a las ideas más audaces.
+- **Maestro de Datos**: Manejo con destreza bases de datos MySQL para garantizar la integridad y eficiencia de los sistemas que construyo.
+- **Control de Versiones**: Domino Git y GitHub como un verdadero héroe del desarrollo, asegurando colaboraciones sin problemas y código impecable.
+- **Maestro de Interfaz de Usuario**: Transformo conceptos en experiencias tangibles desde Angular, dando vida a interfaces intuitivas y memorables.
+- **Magia de Redux**: La gestión de estado con Redux es mi varita mágica para mantener aplicaciones complejas bajo control.
+
+## 🎓 Educación y Experiencia
+
+- **Ingeniería de Sistemas**: Universidad del Magdalena.
+- **Experiencia Significativa**: Participando en proyectos desafiantes que han dejado una huella positiva en la vida de los usuarios a nivel global.
+
+## 🌟 ¡Vamos a Colaborar!
+
+¡Estoy emocionado de explorar nuevas oportunidades y proyectos emocionantes! Si estás buscando un compañero de equipo entusiasta y apasionado, ¡no dudes en contactarme!
+
+## 📫 Contacto
+
+- **Correo Electrónico**: [ivanletralok@gmail.com](mailto:ivanletralok@gmail.com)
+- **LinkedIn**: [Alex Bornachera](https://www.linkedin.com/in/alex-bornachera-908b48191/)
+- **GitHub**: [ivanletralok](https://github.com/ivanletralok)
+
+
+<br><br>¡Contáctame para colaborar en proyectos o simplemente para conectar!<br>
 
 
 # 🌐 Socials:
