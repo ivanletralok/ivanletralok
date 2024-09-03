@@ -6,7 +6,7 @@ Soy **Alex Bornachera**, un apasionado **Ingeniero de Sistemas** con una misión
 - **Frontend Developer**: HTML, CSS, JavaScript, Angular y React son mi lienzo digital para dar vida a las ideas más audaces.
 - **Maestro de Datos**: Manejo con destreza bases de datos MySQL para garantizar la integridad y eficiencia de los sistemas que construyo.
 - **Control de Versiones**: Domino Git y GitHub como un verdadero héroe del desarrollo, asegurando colaboraciones sin problemas y código impecable.
-- **Maestro de Interfaz de Usuario**: Transformo conceptos en experiencias tangibles desde Angular, dando vida a interfaces intuitivas y memorables.
+- **Maestro de Interfaz de Usuario**: Transformo conceptos en experiencias tangibles desde Angular y React, dando vida a interfaces intuitivas y memorables.
 - **Magia de Redux**: La gestión de estado con Redux es mi varita mágica para mantener aplicaciones complejas bajo control.
 
 ## 🎓 Educación y Experiencia
